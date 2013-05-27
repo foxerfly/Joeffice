@@ -1,0 +1,6 @@
+Joeffice 0.5
+Copyright (c) 2013 Japplis
+
+This product is released under the Apache License 2.0. Read the license.txt file for more information.
+
+This product also uses other libraries released other open source licenses, LGPL and CDDL.

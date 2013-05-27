@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.joeffice.h2
+OpenIDE-Module-Localizing-Bundle: org/joeffice/h2/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

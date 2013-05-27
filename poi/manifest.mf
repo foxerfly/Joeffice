@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.joeffice.poi
+OpenIDE-Module-Localizing-Bundle: org/joeffice/poi/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
